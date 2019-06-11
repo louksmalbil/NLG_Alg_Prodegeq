@@ -1,0 +1,2 @@
+# NLG_Alg_Prodegeq
+This decision tree algorithm was developed by Louk Smalbil and Silvia Pagliaro for their research internship at the  Utrecht Universit, department of Information and Computing Science. The algorithm can determine which generalised quantifier belongs to which configuration and generate the appropriate quantifier for a given situation. This algorithm can be used in the future to improve object detection and reasoning procedures involving quantities.  
